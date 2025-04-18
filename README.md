@@ -1,4 +1,6 @@
 🌿 Plant Disease Detection Using Leaf Images
+
+
 📋 Project Overview
 This project focuses on detecting plant diseases by analyzing images of plant leaves. Using a Convolutional Neural Network (CNN), the model is trained to classify whether a plant leaf is healthy or diseased.
 The model achieves an accuracy of 88% on the test set.
